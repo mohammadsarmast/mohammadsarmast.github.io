@@ -1,5 +1,4 @@
-<h1 align="center">mohammad sarmast</h1>
----<img src="http://s15.picofile.com/file/8409743842/aks.jpg">
+<img src="http://s15.picofile.com/file/8409743842/aks.jpg">
 ### Intro
 ---
 + BirthDate
