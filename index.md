@@ -1,4 +1,4 @@
-<img src="http://s14.picofile.com/file/8409832200/ft.jpg">
+<img src="http://s14.picofile.com/file/8409832200/ft.jpg alt="Smiley face" width="42" height="42"">
 ### Intro
 ---
 + BirthDate
