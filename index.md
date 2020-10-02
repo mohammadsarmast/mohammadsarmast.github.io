@@ -1,4 +1,4 @@
-<img src="http://s14.picofile.com/file/8409832200/ft.jpg  width="42" height="42"">
+<img src="http://s14.picofile.com/file/8409832200/ft.jpg width="42" height="42"">
 ### Intro
 ---
 + BirthDate
