@@ -1,5 +1,3 @@
-<html>
-    
 <marquee>Welcome</marquee>
 <img src="http://s14.picofile.com/file/8409832200/ft.jpg" width="100" height="100" >
 ### Intro
@@ -10,8 +8,6 @@
 + Mobile:09912367869
 + Email:mohammadsarmast1379@gmail.com
 + Iran,Tehran Province,Tehran city
-
-
 ---
 ### About
 + Payame Noor Shahriyar student in the field of computer engineering and familiar with Python, Java, C ++,c, HTML, and CSS languages and passing the site design course.
