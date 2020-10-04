@@ -1,32 +1,13 @@
-<div style="direction:rtl;text-align:right;font:11px tahoma;"> 
-<style>;.codebazan1 {display: none; }.read-more-target {opacity: 0; max-height: 0; font-size: 0; transition: .25s ease; }.codebazan:checked ~ .read-more-wrap .read-more-target 
-  {opacity: 1; font-size: inherit; max-height: 999em; }</style>
-
 <marquee>Welcome</marquee>
-<br>
 <img src="http://s14.picofile.com/file/8409832200/ft.jpg" width="100" height="100" >
-<br>
 ### Intro
 ---
-<br>
 + BirthDate
-<br>
 + 3/9/2000
-<br>
-<div class="Kadr1"><div class="F5"><input type="checkbox" class="codebazan" id="post-2"/>
-+Read more
-<p  class="read-more-wrap" >    
-  <span class="read-more-target">  
-    <br>
 + single
 + Mobile:09912367869
 + Email:mohammadsarmast1379@gmail.com
 + Iran,Tehran Province,Tehran city
-    </span>
-                                                                                                 <hr>
-                                                                                             </p>
-                                                                                         </div>
-                                                                                     </div>
 ---
 ### About
 + Payame Noor Shahriyar student in the field of computer engineering and familiar with Python, Java, C ++,c, HTML, and CSS languages and passing the site design course.
