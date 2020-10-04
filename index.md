@@ -4,7 +4,7 @@
 ---
 <br>
 <p>
-  <img src="http://s15.picofile.com/file/8409962450/%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84.png">
+  <img src="http://s15.picofile.com/file/8409962450/%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84.png" width="20" height="20">
  BirthDate
   </p>
 + 3/9/2000
