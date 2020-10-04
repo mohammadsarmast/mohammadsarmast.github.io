@@ -3,11 +3,16 @@
   {opacity: 1; font-size: inherit; max-height: 999em; }</style>
 
 <marquee>Welcome</marquee>
+<br>
 <img src="http://s14.picofile.com/file/8409832200/ft.jpg" width="100" height="100" >
+<br>
 ### Intro
 ---
+<br>
 + BirthDate
+<br>
 + 3/9/2000
+<br>
 <div class="Kadr1"><div class="F5"><input type="checkbox" class="codebazan" id="post-2"/>
 +Read more
 <p  class="read-more-wrap" >    
