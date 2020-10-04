@@ -1,5 +1,6 @@
 <div style="direction:rtl;text-align:right;font:11px tahoma;"> 
-<style>;.codebazan1 {display: none; }.read-more-target {opacity: 0; max-height: 0; font-size: 0; transition: .25s ease; }.codebazan:checked ~ .read-more-wrap .read-more-target {opacity: 1; font-size: inherit; max-height: 999em; }</style>
+<style>;.codebazan1 {display: none; }.read-more-target {opacity: 0; max-height: 0; font-size: 0; transition: .25s ease; }.codebazan:checked ~ .read-more-wrap .read-more-target 
+  {opacity: 1; font-size: inherit; max-height: 999em; }</style>
 
 <marquee>Welcome</marquee>
 <img src="http://s14.picofile.com/file/8409832200/ft.jpg" width="100" height="100" >
