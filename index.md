@@ -20,12 +20,12 @@
  </p>
  <br>
  <p>
-  <img src="http://s15.picofile.com/file/8409965826/%D8%A7%DB%8C%D9%85%DB%8C%D9%84.png">
+  <img src="http://s15.picofile.com/file/8409965826/%D8%A7%DB%8C%D9%85%DB%8C%D9%84.png" width="20" height="20">
 + Email:mohammadsarmast1379@gmail.com
   </p>
   <br>
   <p>
-  <img src="http://s14.picofile.com/file/8409966018/%DA%A9%D8%B4%D9%88%D8%B1.png">
+  <img src="http://s14.picofile.com/file/8409966018/%DA%A9%D8%B4%D9%88%D8%B1.png" width="20" height="20">
 + Iran,Tehran Province,Tehran city
   </p>
 ---
