@@ -11,24 +11,11 @@
 ---
 + BirthDate
 + 3/9/2000
-<div class="Kadr1"><div class="F5"><input type="checkbox" class="codebazan" id="post-2"/>
- 
-                                                                                            «ادامه نوشته
-<p  class="read-more-wrap" >
- 
-متن اول تست ادامه مطلب
- 
-                                                                                                 <span class="read-more-target">
-<br>
 + single
 + Mobile:09912367869
 + Email:mohammadsarmast1379@gmail.com
 + Iran,Tehran Province,Tehran city
-                                                                                                 </span>
-                                                                                                 <hr>
-                                                                                             </p>
-                                                                                         </div>
-                                                                                     </div>
+
 
 ---
 ### About
@@ -56,4 +43,4 @@
 ### ارزیابی رزومه
 
 [رزومه فارسی](/resume-fa)
-</html>
+
