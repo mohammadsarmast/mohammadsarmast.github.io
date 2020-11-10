@@ -45,10 +45,10 @@
 + English
 + Persian
 ---
-### social media
+### instagram Profile Link
 <br>
  <a href=" https://instagram.com/mohammad1379613">instagram</a>
----
+<br>
 ### Quera Profile Link
 <br>
 <a href="https://quera.ir/profile/mohammadsarmast1379">Quera</a>
