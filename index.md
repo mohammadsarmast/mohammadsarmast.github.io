@@ -46,10 +46,13 @@
 + Persian
 ---
 ### social media
-+ https://instagram.com/mohammad1379613
+<br>
+ <a href=" https://instagram.com/mohammad1379613">instagram</a>
 ---
 ### Quera Profile Link
-+ https://quera.ir/profile/mohammadsarmast1379
+<br>
+<a href="https://quera.ir/profile/mohammadsarmast1379">Quera</a>
+
 ---
 ### ارزیابی رزومه
 
